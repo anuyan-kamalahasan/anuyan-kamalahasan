@@ -3,8 +3,10 @@ Hi, my name is Anuyan Kamalahasan and I am a second year computer science studen
 
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anuyan-kamalahasan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anuyan.kamalahasan@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anuyan-kamalahasan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuyan.kamalahasan@example.com)
+[![Website Portfolio](https://img.shields.io/badge/WebsitePortfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white)](mailto:anuyan.kamalahasan@example.com)
+
 
 
 # 💻 Programming Languages:
