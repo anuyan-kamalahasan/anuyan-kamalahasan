@@ -7,7 +7,7 @@ Feel free to explore my repositories and view my projects to get a sense of what
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anuyan-kamalahasan)
 [![Website Portfolio](https://img.shields.io/badge/EPortfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white)](mailto:anuyan.kamalahasan@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-D14836?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/profile/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-D14836?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/profile/)
 
 ## 📩 Email Me:
 anuyan098@gmail.com
