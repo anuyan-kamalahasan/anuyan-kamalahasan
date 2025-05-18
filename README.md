@@ -1,5 +1,7 @@
 # 🙋‍♂️ About Me:
-Hi, my name is Anuyan Kamalahasan and I am a second-year computer science student at Toronto Metropolitan University (TMU). I'm a passionate student who wants to create solutions through technology and make the world a better place for everyone. At the moment I am exploring the tech world to further enhance my skills as well as learn new things so that I apply these in the real world and make a positive impact on society. I am eager to learn, collaborate, and as well as contribute to tech companies/teams that also share my passion of mine.
+Hi, my name is Anuyan Kamalahasan and I am a second-year computer science student at Toronto Metropolitan University (TMU). I'm a passionate student who wants to create solutions through technology and make the world a better place for everyone. At the moment I am exploring the tech world to further enhance my skills as well as learn new things so that I apply these in the real world and make a positive impact on society. 
+
+Feel free to explore my repositories and view my projects to get a sense of what I am capable of and please don't hesitate to contact me as I am eager to learn, collaborate, and as well as contribute to tech companies/teams that also share my passion of mine.
 
 
 ## 🌐 Connect With Me:
