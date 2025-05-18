@@ -1,17 +1,15 @@
-# 💫 About Me:
-Hi, my name is Anuyan Kamalahasan and I am a second year computer science student at Toronto Metropolitan University. 
+# 🙋‍♂️ About Me:
+Hi, my name is Anuyan Kamalahasan and I am a second year computer science student at Toronto Metropolitan University. I'm a passionate student who loves to make new coding project
 
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anuyan-kamalahasan)
 [![Website Portfolio](https://img.shields.io/badge/EPortfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white)](mailto:anuyan.kamalahasan@example.com)
 
-## 📧 Email Me:
+## 📩 Email Me:
 anuyan098@gmail.com
 
-
-
-# 💻 Programming Languages:
+# 🖥️ Programming Languages & Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
