@@ -3,7 +3,9 @@ Hi, my name is Anuyan Kamalahasan and I am a second year computer science studen
 
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anuyan-kamalahasan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anuyan-kamalahasan)  
+📧 [anuyan098@gmail.com](mailto:anuyan098@gmail.com)
+
 
 # 💻 Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
