@@ -4,7 +4,7 @@ Hi, my name is Anuyan Kamalahasan and I am a second year computer science studen
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anuyan-kamalahasan)
-[![Website Portfolio](https://img.shields.io/badge/Website-Portfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white)](mailto:anuyan.kamalahasan@example.com)
+[![Website Portfolio](https://img.shields.io/badge/EPortfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white)](mailto:anuyan.kamalahasan@example.com)
 
 ## 📧 Email Me:
 anuyan098@gmail.com
