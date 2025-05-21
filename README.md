@@ -16,7 +16,8 @@ anuyan098@gmail.com
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Lisp](https://img.shields.io/badge/Lisp-%23c5007f.svg?style=for-the-badge&logo=lisp&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-%23d4aa00.svg?style=for-the-badge&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lisp](https://img.shields.io/badge/Lisp-%23c5007f.svg?style=for-the-badge&logo=lisp&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-%23d4aa00.svg?style=for-the-badge&logo=gear&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anuyan-kamalahasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
